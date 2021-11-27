@@ -1,8 +1,6 @@
 # I bet you can't prove me wrong!
 
-20 Stars!
-
-How it works:
+21 Stars!
 
 ```py
 star_this_repo()       # Star this repostory
