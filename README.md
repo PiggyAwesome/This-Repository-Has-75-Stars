@@ -1,6 +1,6 @@
-# I bet you can't prove me wrong! (Not updating anymore)
+# I bet you can't prove me wrong!
 
-24 Stars!
+28 Stars!
 
 ```py
 star_this_repo()       # Star this repostory
