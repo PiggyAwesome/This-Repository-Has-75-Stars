@@ -12,7 +12,7 @@ if title not correct:  # If the title is not correct
 elif title == correct: # Else if the title is correct
    i_win = True        # I win!
 
-if i_win == True       # If I won
+if i_win == True:      # If I won
     follow()           # Follow
 elif i_win == False:   # Else if I did not win
     open_issue()       # Open Issue!
